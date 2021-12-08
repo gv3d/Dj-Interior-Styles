@@ -2,4 +2,4 @@
 
 ## Single page site on Django
 
-![alt tag](https://github.com/gv3d/Dj-Interior-Styles/blob/main/Interior%20Styles_preview.png "symple django")
+![alt tag](https://github.com/gv3d/Dj-Interior-Styles/blob/main/Interior%20Styles_preview.png "Symple django")
